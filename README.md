@@ -11,6 +11,7 @@ It can help you to remember ***from Grade 7 to Grade 9***'s all poetries for Chi
  
 -Gameplay
  -After the beginning,  you can enter the correct answer to complete the level,then you can select whether to continue.
+ 
  -If you won't，you can write 'a' to skip.
 
 Good luck to you!
